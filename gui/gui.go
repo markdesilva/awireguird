@@ -17,7 +17,7 @@ import (
 const (
 	Version     = "1.1.0"
 	Repo        = "https://github.com/UnnoTed/wireguird"
-	TunnelsPath = "/etc/amnesiawg/"
+	TunnelsPath = "/etc/amneziawg/"
 	IconPath    = "/opt/wireguird/Icon/"
 )
 
